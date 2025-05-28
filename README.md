@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-![Header](img\github-header-image.png)
+![Header](img/github-header-image.png)
 - 🔭 I’m currently working at **Citigas Energi Indonesia**
 - 🌱 I’m currently learning **Flutter** Framework
 
