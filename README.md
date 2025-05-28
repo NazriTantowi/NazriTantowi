@@ -1,5 +1,14 @@
-## Welcome Tech Enthusiast 👋
+## Hello World 👋
 
+![Header](img\github-header-image.png)
+- 🔭 I’m currently working at **Citigas Energi Indonesia**
+- 🌱 I’m currently learning **Flutter** Framework
+
+#### Skills
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+#### Connect With Me
+![instagram.com](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <!--
 **NazriTantowi/NazriTantowi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
